@@ -10,7 +10,7 @@ These files have been tested on Windows 10 with newest VirtualBox and Vagrant.
 
 ## Build from OVA file
 
-You may not need Vagrant, simply import this file VirtualBox.
+You may not need Vagrant, simply import this file in VirtualBox.
 
 
 
