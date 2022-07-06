@@ -10,11 +10,15 @@ These files have been tested on Windows 10 with newest VirtualBox and Vagrant.
 
 ## Build from OVA file
 
+You may not need Vagrant, simply import this file VirtualBox.
+
 
 
 ## Build from vagrant box
 
 https://app.vagrantup.com/Yitao/boxes/p4_tutorial_release_ubuntu20
+
+The installation instructions have been given in it.
 
 ## note
 
