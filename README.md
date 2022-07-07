@@ -6,7 +6,7 @@ For some reason you can't fix the installation progress and want a pre-built vm 
 
 You can use either of the two files to install vm, given by links.
 
-These files have been tested on Windows 10 with newest VirtualBox and Vagrant.
+These files have been tested on Windows 10 with VirtualBox 6.1 and Vagrant 2.2.19.
 
 ## Build from OVA file
 
