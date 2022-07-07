@@ -12,13 +12,17 @@ These files have been tested on Windows 10 with newest VirtualBox and Vagrant.
 
 You may not need Vagrant, simply import this file in VirtualBox.
 
-
+https://drive.google.com/file/d/1B1srPX8h2rM4e1PutGQxv-vS2TFGiikY/view?usp=sharing
 
 ## Build from vagrant box
 
 https://app.vagrantup.com/Yitao/boxes/p4_tutorial_release_ubuntu20
 
 The installation instructions have been given in it.
+
+You can also download it from Google Drive.
+
+https://drive.google.com/file/d/1V_sZldgMJ9N6wqmNge-VcsH54Gjfmvvx/view?usp=sharing
 
 ## note
 
