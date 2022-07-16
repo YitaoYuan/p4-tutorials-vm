@@ -8,7 +8,7 @@ You can use either of the two files to install vm, given by links.
 
 These files have been tested on Windows 10 with VirtualBox 6.1 and Vagrant 2.2.19.
 
-## Build from OVA file (**Recommended**)
+## Build from OVA file (**Recommended, newest**)
 
 You may not need Vagrant, simply import this file in VirtualBox.
 
